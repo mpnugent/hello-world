@@ -1,2 +1,1 @@
-# hello-world
-GitHub Hello World
+For you will be dead much longer than you will be alive. And you will have all that time to remember everything that was your life, even if no one else does. So you had better find something worth remembering and just leave it at that. - Matthew Good
